@@ -9,6 +9,9 @@
   <a href="https://alikhandev.com">
     <img src="https://img.shields.io/badge/Портфолио-alikhandev.com-2E7BFF?style=for-the-badge" alt="Портфолио">
   </a>
+  <a href="https://alikhandev.com/ru/projects/agrovision">
+    <img src="https://img.shields.io/badge/🥇_Qostanai_AgroTech_Hackathon_2026-1_место-FFD700?style=for-the-badge" alt="1 место — Qostanai AgroTech Hackathon 2026">
+  </a>
   <a href="mailto:hi@alikhandev.com">
     <img src="https://img.shields.io/badge/Почта-hi@alikhandev.com-1F2937?style=for-the-badge" alt="Почта">
   </a>
@@ -19,7 +22,8 @@
 Мне 16, я учусь в математическом классе школы-лицея №1 в Костанае и разрабатываю
 AI-продукты. Работаю с компьютерным зрением, PWA и Telegram-ботами: собираю
 рабочие прототипы от идеи до деплоя. Участник хакатонов и питч-сессий экосистемы
-Astana Hub — Костанай, Петропавловск, Алматы.
+Astana Hub — Костанай, Петропавловск, Алматы. В сентябре 2026 года наша
+команда заняла **первое место на Qostanai AgroTech Hackathon** с AgroVision AI.
 
 Мне интересна не технология сама по себе, а момент, когда она превращается
 в работающий сервис, которым кто-то пользуется.
@@ -28,10 +32,11 @@ Astana Hub — Костанай, Петропавловск, Алматы.
 
 | Проект | Что это | Результат |
 |---|---|---|
+| **[AgroVision AI](https://alikhandev.com/ru/projects/agrovision)** · [репозиторий](https://github.com/Krazher220-Ceo/MusorDropp-Qostanai_AgroTech_Hackathon_2026) | Карта сорняков и точечного опрыскивания по снимкам дрона для агрохолдинга «Олжа Агро»: YOLOv8s + EfficientNet-B0 (26 видов, 3 фазы), геопривязка, экспорт в ISO 11783-10, офлайн-приложение агронома | 🥇 **1 место** по кейсу и приз `500 000 ₸`; mAP@50 детектора `0,77` на независимом тесте |
 | **[Jasyl](https://alikhandev.com/ru/projects/jasyl)** | AI-мониторинг зелёных насаждений Костаная: житель фотографирует дерево, модель определяет состояние, объект встаёт на карту. Работает без интернета | Свой датасет `343` фото, дообученная MobileNetV3, точность на валидации `54,7%`, macro F1 `0,55` |
 | **[QA Vision](https://alikhandev.com/ru/projects/qa-vision)** | Контроль качества покраски кузова по фотографии для кейса компании Allur: детекция дефектов, реестр, KPI смены, выгрузка в Power BI | `7 787` строк Python, подключаемый детектор за одним интерфейсом, три роли доступа |
 | **[KZ UniVerse](https://alikhandev.com/ru/projects/kz-universe)** | Единая платформа университетов Казахстана: каталог, сравнение вузов, аналитика и AI-помощник, который отвечает даже без интернета | `15` вузов, `19` программ, три режима помощника — за `24` часа хакатона |
-| **[NPAI](https://alikhandev.com/ru/projects/npai)** | Маркетплейс готовых решений для промышленного IoT: коды для датчиков, AI-модели и дашборды, которые ставятся за вечер | Топ-`30` Startup Battle на IT Fest 2025, три города, с 2024 года |
+| **[NPAI](https://alikhandev.com/ru/projects/npai)** | Маркетплейс готовых решений для промышленного IoT: коды для датчиков, AI-модели и дашборды, которые ставятся за вечер | `3` место Pizza Pitch (Qostanai Hub), топ-`30` Startup Battle на IT Fest 2025 |
 
 У каждого проекта на сайте есть разбор: задача, инженерные решения,
 измеренный результат и раздел «что пошло не так» — без него портфолио
@@ -41,7 +46,7 @@ Astana Hub — Костанай, Петропавловск, Алматы.
 
 **Уверенно** &nbsp;·&nbsp; Python · JavaScript · HTML/CSS · FastAPI · aiogram · Git
 
-**Работал в проектах** &nbsp;·&nbsp; PyTorch · TensorFlow · MobileNetV2 · EfficientNet · YOLOv8 · Supabase · Leaflet.js · PWA · Render · Docker
+**Работал в проектах** &nbsp;·&nbsp; PyTorch · TensorFlow · MobileNetV2 · EfficientNet · YOLOv8 · Streamlit · Supabase · Leaflet.js · PWA · Render · Docker
 
 **Изучаю** &nbsp;·&nbsp; React · n8n · локальные LLM (Ollama, LM Studio)
 
@@ -51,7 +56,8 @@ Astana Hub — Костанай, Петропавловск, Алматы.
 `2025` Петропавловск — питч-площадка &nbsp;→&nbsp;
 `2025` Костанай — Qostanai AI-Sana, кейс Allur &nbsp;→&nbsp;
 `2025` Алматы — IT Fest, два трека &nbsp;→&nbsp;
-`2026` Костанай — Qostanai Smart City
+`2026` Костанай — Qostanai Smart City &nbsp;→&nbsp;
+`2026` Костанай — Qostanai AgroTech, **1 место**
 
 ## Как я работаю с AI
 
